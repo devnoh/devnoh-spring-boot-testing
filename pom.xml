@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>devnoh</groupId>
-    <artifactId>demoapp</artifactId>
+    <artifactId>spring-boot-testing</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>demoapp</name>
+    <name>spring-boot-testing</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>
